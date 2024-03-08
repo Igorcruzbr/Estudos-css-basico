@@ -1,0 +1,11 @@
+* {
+    margin: 0;
+}
+
+p {
+    margin: 10px;
+    padding: 10px;
+    border: solid 5px orange;
+
+    background-color: blue;
+}
